@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# nlc_v0.1.sh — Natural Language Compiler (conversation → seed repo for Claude Code), single script.
+# nlc.sh — Natural Language Compiler (conversation → seed repo for Claude Code), single script.
 # v0.1 - 20250903
 # Authors: neurodivergentai, ChatGPT, Claude
 # MIT License
